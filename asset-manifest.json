@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IIIT-internship/static/css/main.5234a89b.css",
+    "main.js": "/IIIT-internship/static/js/main.62da6223.js",
+    "static/js/787.d5fa4d18.chunk.js": "/IIIT-internship/static/js/787.d5fa4d18.chunk.js",
+    "index.html": "/IIIT-internship/index.html",
+    "main.5234a89b.css.map": "/IIIT-internship/static/css/main.5234a89b.css.map",
+    "main.62da6223.js.map": "/IIIT-internship/static/js/main.62da6223.js.map",
+    "787.d5fa4d18.chunk.js.map": "/IIIT-internship/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5234a89b.css",
+    "static/js/main.62da6223.js"
+  ]
+}
